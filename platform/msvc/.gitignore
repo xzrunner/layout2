@@ -1,0 +1,5 @@
+layout2/
+projects/*
+
+!projects/layout2.vcxproj
+!projects/layout2.vcxproj.filters
